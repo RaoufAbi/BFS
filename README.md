@@ -20,4 +20,4 @@ It is commonly used for:
 Clone the repository:  
 ```bash
 git clone https://github.com/RaoufAbi/BFS.git
-cd bfs-python
+cd BFS
